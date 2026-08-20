@@ -4,10 +4,11 @@ Passionate Data Science student dedicated to transforming complex data into acti
 
 Skills :
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-SQL (Data extraction, transformation, filtering, and joining)
-Power BI (Interactive dashboards, DAX), Advanced Excel (Pivot tables, data modeling)
-Excel (For Data Cleaning)
+--Python (Pandas, NumPy, Matplotlib, Seaborn)
+--SQL (Data extraction, transformation, filtering, and joining)
+--Power BI (Interactive dashboards, DAX), Advanced Excel (Pivot tables, data modeling)
+--Excel (For Data Cleaning)
+
 Core Domains: Data Analytics, Business Intelligence, Data Science Fundamentals
 
 Email : ab3832dullah@gmail.com
