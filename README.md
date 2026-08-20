@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ab3832dullah/ab3832dullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate Data Science student dedicated to transforming complex data into actionable insights and intuitive visual dashboards. Proficient in Python, SQL, Power BI, and Excel, with hands-on experience in exploratory data analysis, database management, and business intelligence reporting. Eager to leverage technical expertise and analytical problem-solving skills to drive data-driven decision-making in dynamic software engineering and analytics environments.
 
-Here are some ideas to get you started:
+Key Technical Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Analysis & Scripting: Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+Databases & Querying: SQL (Data extraction, transformation, filtering, and joining)
+
+Visualization & Reporting: Power BI (Interactive dashboards, DAX), Advanced Excel (Pivot tables, data modeling)
+
+Core Domains: Data Analytics, Business Intelligence, Data Science Fundamentals
+
+Email : ab3832dullah@gmail.com
